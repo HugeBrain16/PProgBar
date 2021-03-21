@@ -1,5 +1,5 @@
 # PProgBar
-
+![GitPack](https://img.shields.io/badge/-GitPack-yellow)  
 **PProgBar** is a package to create an image progress bar
 
 ### Installation
