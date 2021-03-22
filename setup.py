@@ -2,7 +2,7 @@ import setuptools
 
 setuptools.setup(
 name='PProgBar',
-version='0.0.1',
+version='0.0.2',
 author='HugeBrain16',
 author_email='joshtuck373@gmail.com',
 description='Create image progress bar',
